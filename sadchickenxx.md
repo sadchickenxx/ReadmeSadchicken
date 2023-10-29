@@ -1,4 +1,4 @@
-# ReadmeSadchicken
+#sadchickenxx
 
 👋 Hi, I’m @Sadchickenxx
 👀 I’m interested in ... learn python, javascript, react
